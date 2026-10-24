@@ -1,5 +1,7 @@
 ripgrep (rg)
 ------------
+> **Türkçe Fedora rehberi:** [Fedora Linux + Bash + SELinux için ripgrep kurulumu, yapılandırma ve örnekler](docs/README.tr.md) — kişisel ayar yolu: `/home/murat/.config/ripgrep`.
+
 ripgrep is a line-oriented search tool that recursively searches the current
 directory for a regex pattern. By default, ripgrep will respect gitignore rules
 and automatically skip hidden files/directories and binary files. (To disable
